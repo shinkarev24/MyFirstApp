@@ -1,4 +1,4 @@
-package tumus;
+package tumus.task_1293;
 
 import java.io.PrintWriter;
 import java.util.Scanner;
