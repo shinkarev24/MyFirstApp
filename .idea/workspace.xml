@@ -4,18 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7e0b2c3-bb08-4d53-9638-80298a4b62ef" name="Changes" comment="lr 2">
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/testex4.java" afterDir="false" />
+    <list default="true" id="b7e0b2c3-bb08-4d53-9638-80298a4b62ef" name="Changes" comment="timus">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example1/MyClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example2/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example3/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example4/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example5/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example7/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example8/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example9/ChangeArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR6/example9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR7/example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR7/example1/SubClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR7/example1/SuperClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR7/example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR7/example2/SuperClassTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR7/example3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR7/example3/SuperClassTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR7/example4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR7/example5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR7/example5/SuperClassTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR8/example9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,16 +94,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example4">
-    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR3.Example10" />
+  <component name="RunManager" selected="Application.LR8.example10.Main">
+    <configuration name="LR8.example10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR8.example10.Main" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR3.*" />
+          <option name="PATTERN" value="LR8.example10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR3.Example3" />
+    <configuration name="LR8.example11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR8.example11.Main" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR3.*" />
+          <option name="PATTERN" value="LR8.example11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR3.Example4" />
+    <configuration name="LR8.example12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR8.example12.Main" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR3.*" />
+          <option name="PATTERN" value="LR8.example12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR3.Example8" />
+    <configuration name="LR8.example2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR8.example2.Main" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR3.*" />
+          <option name="PATTERN" value="LR8.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR3.testex4" />
+    <configuration name="LR8.example3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR8.example3.Main" />
       <module name="MyFirstApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR3.*" />
+          <option name="PATTERN" value="LR8.example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.testex4" />
-        <item itemvalue="Application.Example10" />
-        <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.Example8" />
+        <item itemvalue="Application.LR8.example10.Main" />
+        <item itemvalue="Application.LR8.example11.Main" />
+        <item itemvalue="Application.LR8.example12.Main" />
+        <item itemvalue="Application.LR8.example3.Main" />
+        <item itemvalue="Application.LR8.example2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +197,42 @@
       <option name="project" value="LOCAL" />
       <updated>1671655468251</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lr 3">
+      <created>1671815725243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671815725243</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lr 4">
+      <created>1672323839526</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672323839526</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lr 5">
+      <created>1672323864500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672323864500</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lr 5">
+      <created>1672324900801</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672324900801</updated>
+    </task>
+    <task id="LOCAL-00007" summary="timus">
+      <created>1674579452037</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674579452037</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +249,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="lr 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr 2" />
+    <MESSAGE value="lr 3" />
+    <MESSAGE value="lr 4" />
+    <MESSAGE value="lr 5" />
+    <MESSAGE value="timus" />
+    <option name="LAST_COMMIT_MESSAGE" value="timus" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -191,6 +262,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="3" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LR5/Example6.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
